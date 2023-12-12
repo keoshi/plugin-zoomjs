@@ -44,3 +44,9 @@ img.zoom-img {
 .zoom-overlay-transitioning {
 	cursor: default;
 }
+
+@media (prefers-color-scheme: dark) {
+	.zoom-overlay {
+		background: #000;
+	}
+}
