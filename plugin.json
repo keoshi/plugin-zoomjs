@@ -1,10 +1,10 @@
 {
-  "version": "3.0.3",
-  "title": "GLightbox",
-  "description": "Adds the ability to have simple, attractive lightbox and gallery for photos using a shortcode.",
+  "version": "0.0.1",
+  "title": "Image Zoom",
+  "description": "A simple plugin to let users zoom in on your images.",
   "includes": [
-    "/glightbox.js",
-    "/img-gallery.css",
-    "glightbox.html"
+    "/jquery.min.js",
+    "/zoom.min.js",
+    "/zoom.css"
   ]
 }
